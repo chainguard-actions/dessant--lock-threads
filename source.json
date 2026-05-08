@@ -1,4 +1,6 @@
 {
-  "upstream": "dessant/lock-threads",
-  "version": "v6.0.0"
+  "owner": "dessant",
+  "repo": "lock-threads",
+  "version": "",
+  "url": "https://github.com/dessant/lock-threads"
 }
