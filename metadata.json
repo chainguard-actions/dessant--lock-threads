@@ -1,7 +1,7 @@
 {
   "owner": "dessant",
   "name": "lock-threads",
-  "visibility": "internal",
+  "visibility": "public",
   "description": "GitHub Action that locks closed issues, pull requests and discussions after a period of inactivity",
   "block_publish": false
 }
