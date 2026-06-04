@@ -1,6 +1,6 @@
 # dessant/lock-threads
 
-GitHub Action that locks closed issues, pull requests and discussions after a period of inactivity
+Lock closed issues, pull requests and discussions after a period of inactivity
 
 Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/dessant/lock-threads](https://github.com/dessant/lock-threads).
 
@@ -9,6 +9,7 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 | Version | Tag | Upstream commit |
 |---------|-----|-----------------|
 | v6.0.0 | [`v6.0.0`](https://github.com/chainguard-actions/dessant-lock-threads/tree/v6.0.0) | — |
+| v6.0.2 | [`v6.0.2`](https://github.com/chainguard-actions/dessant-lock-threads/tree/v6.0.2) | [`89ae32b`](https://github.com/dessant/lock-threads/commit/89ae32b08ed1a541efecbab17912962a5e38981c) |
 
 ## Privacy
 
